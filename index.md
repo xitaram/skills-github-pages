@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Z's blog
 ---
+Hello everyone, this is my blog!
 
